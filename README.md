@@ -22,3 +22,24 @@
 - **IDE**: Eclipse  
 - **Build Tool**: Maven
 
+  
+FoodApp/
+├── src/
+│ ├── controller/
+│ ├── dao/
+│ ├── entity/
+│ ├── service/
+│ └── main/ (FoodAppApplication.java)
+├── templates/ (Thymeleaf HTML pages)
+├── static/ (CSS, JS, images)
+├── application.properties
+└── pom.xml
+
+## How to Run
+1. Clone this repo
+2. Open in Eclipse/IntelliJ
+3. Run `FoodAppApplication.java`
+4. Access at `http://localhost:8080`
+
+## Author
+Shreeyashree Samantaray
